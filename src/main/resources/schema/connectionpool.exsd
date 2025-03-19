@@ -6,7 +6,7 @@
          <meta.schema plugin="org.datanucleus.store.rdbms" id="connectionpool" name="ConnectionPool"/>
       </appInfo>
       <documentation>
-         [Enter description of this extension point.]
+         [Enter description of this extension po int.]
       </documentation>
    </annotation>
 
